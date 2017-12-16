@@ -1,6 +1,6 @@
 # LearnToStats
 
-# Developers #
+# Team Members #
 Durga Ganesh, Neha Kunjal, Sinclair Chen
 
 # Description #
