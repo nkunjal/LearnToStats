@@ -1,0 +1,25 @@
+Statistical Vocabulary:
+
+1. Data: observations determined from an experiment or study 
+2. Quantitative Data: data that has associated units (eg. meters) and covers a particular range
+3. Categorical Data: data fitting into discrete categories- in our case, the two categories consist of some form of a “success” and “failure”
+4. Sample: subset of a population whose information has been gathered as part of an experiment or study in order to investigate and draw conclusions about the overall population
+5. Assumptions/Conditions: statements regarding the sample, population, or sampling methods that must be true in order to perform valid hypothesis testing and draw valid conclusions
+6. Null Hypothesis: initial hypothesis, before inference testing, that there is no significant difference between the sample and the assumed population parameter (for 1 sample) or between the two groups (for 2 samples)
+7. Proportion: ratio (of success or failure with respect to the sample size) describing the sample/population
+8. Box Plot: standardized method of depicting the distribution of a data set (only for quantitative data)
+9. Histogram: standardized method of depicting the distribution of a data set (only for quantitative data)
+10. Independent: there is no known relationship or association
+11. Simple Random Sample (SRS): random selection of sample in which each individual has the same probability of being chosen
+12. Sample Size: number of individuals/data points in sample
+13. Population: entire group of items/individuals from which the sample was collected; conclusions drawn about the sample are used to describe the population
+14. Normal: description of data in population whose density curve is symmetric and bell-shaped
+15. Outliers: data point that is determined to be unusually far from the mean
+16. Unimodal: probability distribution with a single mode; describes a bell-shaped density curve
+17. Sampling Distribution Model (SDM): graph depicting how far each member of the sample falls compared to the mean
+18. Normal Model: symmetric and bell-shaped density curve
+19. P-value: probability that one obtains the observed sample assuming that the null hypothesis is true
+20. z-score: describes the deviation of a sample from the expected population proportion (in our case, it is used to describe categorical data)
+21. T-value: describes the deviation of a sample from the expected mean (in our case, it is used to describe quantitative data)
+22. Standard Deviation: measure of spread or distribution of data (larger value means that data is more spread out)
+23. Inference/Hypothesis Testing: process of testing a hypothesis with the null hypothesis to draw conclusions about a population, assuming that certain assumptions and conditions were initially met
